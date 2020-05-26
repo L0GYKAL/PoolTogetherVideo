@@ -1,0 +1,21 @@
+Script:
+
+Hey, have you ever dreamed of an utopian world? Where you can play lottery an unlimited amount of time without ever losing money?
+This world exists and it's yours.
+PoolTogether allows you to realise this dream.
+But then what is Pool Together ?
+It is a Decentralized Finance platform working on the ethereum blockchain.
+Why should you dive into the pool?
+First, it means that no third party will take your money away.
+It means that PoolTogether is trustless.
+It’s also free to join for anyone on the earth without any requirement.
+And it’s also secure thanks to the blockchain which makes code and funds auditable.
+A deep dive in how it works:
+People/Individuals like you and me can deposit fund in PoolTogether.
+Dai and USDC are accepted. There are stablecoins pegged to the American dollar, and so are pretty good way to counter other cryptocurrencies' volatility.
+The platform uses a lending protocol called Compound to make the pool generate/make interests on its funds.
+At the end of every week, the interests are distributed to one lucky member of the pool and every other members recover their fund. 
+You are the master of your fund, you can withdraw your savings and winnings at any time.
+
+
+
